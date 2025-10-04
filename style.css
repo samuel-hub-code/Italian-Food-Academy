@@ -1,0 +1,57 @@
+body{
+     font-family: sans-serif;
+    background-color:rgb(222, 206, 206);
+}
+#home{
+    height: 200px;
+    height:80vh;
+ background-color:blue;
+ opacity: 2px 2px 5px;
+ background-image:url("https://images.pexels.com/photos/1566837/pexels-photo-1566837.jpeg");
+ background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  
+  top: 0;
+  z-index: 1000;
+  text-align: center;
+  background-position: center;
+  color: white;
+}
+#testimonials{
+text-align: center;
+display: flex;
+
+width: 800px;
+padding: 1%;
+
+justify-content: space-between;
+gap: 0%;
+}
+img{
+    border-radius: 500px;
+}
+#testimonial h2{
+    text-align: center;
+    display: flex;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+}
+#one{
+    width: 400px;
+}
+#two{
+    width: 400px;
+}
+#three{
+    width: 400px;
+}
+#testimonials img{
+    display: flex;
+}
