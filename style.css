@@ -1,3 +1,4 @@
+
 body{
      background-image: linear-gradient(rgba(255, 166, 0, 0.603),rgba(255, 255, 0, 0.603),rgba(65, 201, 65, 0.525));
 
@@ -34,4 +35,30 @@ width: 300px;
     border-radius: 2% 2% 2% 2%;
     margin: 2%;
     justify-content: space-around;
+
+h2{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    justify-content: center;
+    display: flex;
+    padding: 5%;
+    background-color: darkorange;
+}
+.ten{
+    width: 300px;
+    font-style: italic;
+    font-size: medium;
+}
+#about{
+    text-align:center;
+    display: flex;
+    background-color: burlywood;
+}
+.t{
+    text-align: center;
+}
+img{
+    border-radius: 500px;
+
 }
