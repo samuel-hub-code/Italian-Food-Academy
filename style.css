@@ -1,3 +1,4 @@
+
 body{
      font-family: sans-serif;
     background-color:rgb(222, 206, 206);
@@ -55,3 +56,79 @@ section{
 #testimonials img{
     display: flex;
 }
+
+
+h4{
+    background-color: rgb(96, 201, 44);
+    color: #282323;
+    padding: 20px;
+    text-align: center;
+    font-size: 0.9em;
+
+
+body{
+     background-image: linear-gradient(rgba(255, 166, 0, 0.603),rgba(255, 255, 0, 0.603),rgba(65, 201, 65, 0.525));
+
+}
+
+.course{
+width: 300px;
+
+}
+/* #nav ul{
+    justify-content: space-around;
+    text-decoration: none;
+    text-transform: capitalize;
+     display: flex;
+     background-color: blue;
+     padding: 2%;
+}
+#nav{
+     color: aliceblue;
+} */
+#courses{
+   display: flex;
+   /* margin: 2%; */
+   padding: 0cap;
+  
+}
+.h2{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 2%;
+}
+.course img{
+    border-radius: 2% 2% 2% 2%;
+    margin: 2%;
+    justify-content: space-around;
+  }
+
+h2{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    justify-content: center;
+    display: flex;
+    padding: 5%;
+    background-color: darkorange;
+}
+.ten{
+    width: 300px;
+    font-style: italic;
+    font-size: medium;
+}
+#about{
+    text-align:center;
+    display: flex;
+    background-color: burlywood;
+}
+.t{
+    text-align: center;
+}
+img{
+    border-radius: 500px;
+
+
+}
+
