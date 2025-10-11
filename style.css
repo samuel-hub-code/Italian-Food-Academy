@@ -1,0 +1,25 @@
+h2{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    justify-content: center;
+    display: flex;
+    padding: 5%;
+    background-color: darkorange;
+}
+.ten{
+    width: 300px;
+    font-style: italic;
+    font-size: medium;
+}
+#about{
+    text-align:center;
+    display: flex;
+    background-color: burlywood;
+}
+.t{
+    text-align: center;
+}
+img{
+    border-radius: 500px;
+}
