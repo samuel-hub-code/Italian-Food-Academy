@@ -1,0 +1,7 @@
+#home{
+  text-align: center;
+  justify-content: space-around; 
+  background-image: linear-gradient(rgba(244, 164, 16, 0.918),rgba(173, 173, 38, 0.79),rgba(129, 129, 237, 0.498));
+  padding: 15%; 
+  border-radius: 100px;
+}
